@@ -16,30 +16,35 @@ module.exports = {
       [
         {
           car_id: 1,
+          status: "SELL",
           started_at: new Date().getTime(),
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           car_id: 2,
+          status: "NOTSELL",
           started_at: new Date().getTime(),
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           car_id: 3,
+          status: "SELL",
           started_at: new Date().getTime(),
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           car_id: 4,
+          status: "SELL",
           started_at: new Date().getTime(),
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           car_id: 5,
+          status: "SELL",
           started_at: new Date().getTime(),
           createdAt: new Date(),
           updatedAt: new Date(),
