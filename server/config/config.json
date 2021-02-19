@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "argadev",
+    "password": 123456,
+    "database": "auction",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "argadev",
+    "password": 123456,
+    "database": "auction",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "argadev",
+    "password": 123456,
+    "database": "auction",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

@@ -1,0 +1,27 @@
+### Users
+GET http://127.0.0.1:3000/users
+
+### cars
+GET http://127.0.0.1:3000/cars
+
+### bids
+GET http://127.0.0.1:3000/bids
+
+### bids
+GET http://127.0.0.1:3000/bids/1
+
+### bids
+POST http://127.0.0.1:3000/bids/1
+Content-Type: application/json
+
+{
+    "data": "1"
+}
+
+### user buy token
+POST http://127.0.0.1:3000/user/buy
+Content-Type: application/json
+
+{
+    "inibody": "body AJSDFHAJLSDHJKLFHDdsdsd"
+}
